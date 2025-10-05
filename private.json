@@ -1,6 +1,6 @@
 {
-    "therefewfweferg": {
-        "Tag": "Smoke Developer",
-        "Color": "#ff3d4d"
-    }
+  "therefewfweferg": {
+    "tag": "Smoke Developer",
+    "color": [255, 61, 77]
+  }
 }
