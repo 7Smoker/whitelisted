@@ -1,3 +1,7 @@
 {
-    "therefewfweferg": true
+    "therefewfweferg": {
+        "authorized": true,
+        "tag": "[Smoke Developer]",
+        "color": "#6df76f"
+    }
 }
