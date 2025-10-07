@@ -1,10 +1,6 @@
 {
-  "printScripter": {
+  "printScripter2": {
     "tag": "Smoke Developer",
     "color": [255, 61, 77]
-  },
-  "Rcb424": {
-    "tag": "Smoke Private",
-    "color": [200, 0, 255]
   }
 }
