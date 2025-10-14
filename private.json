@@ -1,10 +1,6 @@
 {
-  "printScripter6": {
+  "ProjectileShoot": {
     "tag": "Smoke Developer",
     "color": [255, 61, 77]
-  },
-  "OfcBedwarzBanMe": {
-    "tag": "Smoke Private",
-    "color": [222, 52, 235]
   }
 }
